@@ -1,0 +1,20 @@
+div{
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    background-color: blue;   
+    font-size: 20px;
+}
+
+span{
+    font-size: 25px;
+    color: red;
+}
+
+a{
+    color: blue;
+}
+
+li[class="brbrpatapim"]{ 
+    color: blue;
+}

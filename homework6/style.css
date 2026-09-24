@@ -1,0 +1,45 @@
+
+        .box {
+            width: 400px;
+            height: 400px;
+            position: relative;
+            background: white;
+            margin: 50px auto;
+        }
+
+        .circle {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            position: absolute;
+        }
+
+        .circle1 {
+            background: blue;
+            top: 40px;
+            left: 150px;
+        }
+
+        .circle2 {
+            background: deeppink;
+            top: 80px;
+            left: 190px;
+        }
+
+        .circle3 {
+            background: chartreuse;
+            top: 80px;
+            left: 110px;
+        }
+
+        .bottom {
+            width: 120px;
+            height: 120px;
+            background: black;
+            position: absolute;
+            top: 145px;
+            left: 140px;
+
+            border-radius: 0 0 60px 60px;
+        }
+ 

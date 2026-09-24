@@ -1,0 +1,16 @@
+/* h1 {
+    color: red;
+}
+
+body{ 
+    background-color: aquamarine;
+} */
+
+div{
+    display: inline-block;
+    width: 100px;
+    height: 100px;;
+    background-color: blue;
+    border-radius: 30px;
+}
+
