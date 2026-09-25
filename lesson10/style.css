@@ -152,7 +152,7 @@ h5 {
 
   .container {
     flex-direction: column-reverse;
-  }
+  } 
 
   .page {
     width: 100%;
@@ -178,4 +178,4 @@ h5 {
   h1, h2{
     font-size: 28px;
   }
-}
+} 
